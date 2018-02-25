@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509453184 source:d:\ee443\labs\lab2\fuse.c
+	<avr/io.h>
+
+1509457899 source:d:\ee443\labs\lab2\main.c
+	<avr/io.h>
+	<util/delay.h>
+
