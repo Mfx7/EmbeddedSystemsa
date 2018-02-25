@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1511083936 source:d:\ee443\labs\lab5\fuse.c
+	<avr/io.h>
+
+1508682023 source:d:\ee443\labs\lab5\lcdmodule.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1508682025 d:\ee443\labs\lab5\lcdmodule.h
+
+1508682027 source:d:\ee443\labs\lab5\printbyte.c
+
+1511803783 source:d:\ee443\labs\lab5\main.c
+	<stdio.h>
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+

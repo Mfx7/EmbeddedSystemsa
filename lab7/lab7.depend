@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1514294082 source:d:\ee443\labs\lab7\exp7dequeue.c
+	<stdio.h>
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1508682025 d:\ee443\labs\lab7\lcdmodule.h
+
+1513685747 source:d:\ee443\labs\lab7\fuse.c
+	<avr/io.h>
+
+1508682023 source:d:\ee443\labs\lab7\lcdmodule.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1508682027 source:d:\ee443\labs\lab7\printbyte.c
+
+1514293779 source:d:\ee443\labs\lab7\main.c
+	<stdio.h>
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"LCDmodule.h"
+

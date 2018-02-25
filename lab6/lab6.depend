@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1513521200 source:d:\ee443\labs\lab6\fuse.c
+	<avr/io.h>
+
+1508682023 source:d:\ee443\labs\lab6\lcdmodule.c
+	<avr/io.h>
+	<util/delay.h>
+	"LCDmodule.h"
+
+1508682025 d:\ee443\labs\lab6\lcdmodule.h
+
+1508682027 source:d:\ee443\labs\lab6\printbyte.c
+
+1513540063 source:d:\ee443\labs\lab6\main.c
+	<stdio.h>
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"LCDmodule.h"
+
